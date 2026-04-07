@@ -2,7 +2,7 @@
 
 🎓 Bacharel em **Ciência da Computação**  
 📍 Moro em **São Paulo**  
-🚀 Atualmente, estou em busca da minha primeira oportunidade na área de **TI** para aplicar meus conhecimentos e crescer profissionalmente  
+🚀 Atualmente, estou em busca da minha primeira oportunidade na área.
 
 
 ### 🤖 Linguagens e Tecnologias
