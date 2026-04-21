@@ -71,7 +71,8 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Xavier45)](https://github.com/anuraghazra/github-readme-stats)
+
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiago-Xavier45)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
